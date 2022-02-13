@@ -1,8 +1,8 @@
 [{
     "name": "Wallpaper 1",
     "author": "Bittersocks",
-    "url": "https://raw.githubusercontent.com/Shaheer0983/Fishys-Icon-pack/main/Wallpapers/Wallpaper%201.png?token=GHSAT0AAAAAABRKSFTGRG2LXHEFTUYJ3KSGYQIYU7A",
-    "thumbnail": "https://raw.githubusercontent.com/Shaheer0983/Fishys-Icon-pack/main/Wallpapers/Wallpaper%201.png?token=GHSAT0AAAAAABRKSFTGRG2LXHEFTUYJ3KSGYQIYU7A",
+    "url": "https://raw.githubusercontent.com/Shaheer0983/Fishys-Icon-pack/main/Wallpapers/Wallpaper%201.png",
+    "thumbnail": "https://raw.githubusercontent.com/Shaheer0983/Fishys-Icon-pack/main/Wallpapers/Wallpaper%201.png",
     "collections": "LIGHT",
     "dimensions": "1080x1080"
 },
@@ -21,7 +21,6 @@
     "thumbnail": "https://raw.githubusercontent.com/Shaheer0983/Fishys-Icon-pack/main/Wallpapers/Wallpaper%203.png",
     "collections": "DARK",
     "dimensions": "2684x5965"
-    
 },
 {
     "name": "Wallpaper 4",

@@ -20,6 +20,8 @@
     "url": "https://raw.githubusercontent.com/Shaheer0983/Fishys-Icon-pack/main/Wallpapers/Wallpaper%203.png",
     "thumbnail": "https://raw.githubusercontent.com/Shaheer0983/Fishys-Icon-pack/main/Wallpapers/Wallpaper%203.png",
     "collections": "DARK",
+    "dimensions": "2684x5965"
+    
 },
 {
     "name": "Wallpaper 4",
@@ -27,5 +29,6 @@
     "url": "https://raw.githubusercontent.com/Shaheer0983/Fishys-Icon-pack/main/Wallpapers/Wallpaper%204.png",
     "thumbnail": "https://raw.githubusercontent.com/Shaheer0983/Fishys-Icon-pack/main/Wallpapers/Wallpaper%204.png",
     "collections": "LIGHT",
+    "dimensions": "1080x2400"
 }
 ]

@@ -11,7 +11,21 @@
     "author": "Bittersocks",
     "url": "https://raw.githubusercontent.com/Shaheer0983/Fishys-Icon-pack/main/Wallpapers/Wallpaper%202.png",
     "thumbnail": "https://raw.githubusercontent.com/Shaheer0983/Fishys-Icon-pack/main/Wallpapers/Wallpaper%202.png",
-    "collections": "AMOLED",
+    "collections": "DARK",
     "dimensions": "1080x1080"
+},
+{
+    "name": "Wallpaper 3",
+    "author": "Bittersocks",
+    "url": "https://raw.githubusercontent.com/Shaheer0983/Fishys-Icon-pack/main/Wallpapers/Wallpaper%203.png",
+    "thumbnail": "https://raw.githubusercontent.com/Shaheer0983/Fishys-Icon-pack/main/Wallpapers/Wallpaper%203.png",
+    "collections": "DARK",
+},
+{
+    "name": "Wallpaper 4",
+    "author": "Bittersocks",
+    "url": "https://raw.githubusercontent.com/Shaheer0983/Fishys-Icon-pack/main/Wallpapers/Wallpaper%204.png",
+    "thumbnail": "https://raw.githubusercontent.com/Shaheer0983/Fishys-Icon-pack/main/Wallpapers/Wallpaper%204.png",
+    "collections": "LIGHT",
 }
 ]
